@@ -5,7 +5,7 @@
 
 # Jupyter Docker Stacks
 
-As pilhas do Jupyter Docker são um conjunto de imagens do Docker prontas 
+Jupyter Docker Stacks são um conjunto de imagens do Docker prontas 
 para execução, contendo aplicativos Jupyter e ferramentas de computação interativa.
 
 
@@ -14,17 +14,9 @@ para execução, contendo aplicativos Jupyter e ferramentas de computação inte
 
 
 
+## Procura-se ajuda do mantenedor
 
-
-## Maintainer Help Wanted
-
-We value all positive contributions to the Docker stacks project, from
-[bug reports](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/issues.html) to
-[pull requests](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/packages.html)
-to
-[translations](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/translations.html)
-to help answering questions. We'd also like to invite members of the community to help with two
-maintainer activities:
+Valorizamos todas as contribuições positivas para o projeto do Docker stacks, desde [Relatórios de Bugs](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/issues.html) a [pull requests](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/packages.html) até [traduções](https://jupyter-docker-stacks.readthedocs.io/en/latest/contributing/translations.html) para ajudar a responder perguntas. Também gostaríamos de convidar  membros da comunidade para ajudar com duas atividades de manutenção:
 
 - Issue triage: Reading and providing a first response to issues, labeling issues appropriately,
   redirecting cross-project questions to Jupyter Discourse
